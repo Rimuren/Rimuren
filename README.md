@@ -3,8 +3,8 @@ Mostly procrastinating<br>Really love open-source stuff<br>Often seeing other pe
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rimuren&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Rimuren&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimuren&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimuren&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=Rimuren&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
